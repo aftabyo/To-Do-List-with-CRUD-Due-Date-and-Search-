@@ -87,16 +87,4 @@ Visit `http://127.0.0.1:8000/` in your web browser to access the Todo List appli
 
 2. Navigate to `http://127.0.0.1:8000/` to view and interact with your todo list.
 
-### Contributing
 
-If you'd like to contribute to this project, please follow the [Contributing Guidelines](CONTRIBUTING.md).
-
-### License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-- Special thanks to the Django community for their excellent documentation and resources.
-
-Feel free to customize this template with more specific information about your project, such as features, screenshots, or additional setup instructions.
