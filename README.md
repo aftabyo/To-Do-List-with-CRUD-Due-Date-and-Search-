@@ -1,8 +1,14 @@
+![Screenshot 2024-02-29 235935](https://github.com/aftabyo/To-Do-List-with-CRUD-Due-Date-and-Search-/assets/86048783/07c7e47a-9b15-4eaa-83ba-cf2107fabaad)
+
+![Screenshot 2024-02-29 235958](https://github.com/aftabyo/To-Do-List-with-CRUD-Due-Date-and-Search-/assets/86048783/c5c03043-7e43-4543-b1ad-9d066468845d)
+
+![Screenshot 2024-03-01 000011](https://github.com/aftabyo/To-Do-List-with-CRUD-Due-Date-and-Search-/assets/86048783/6c99770d-3197-411a-a8ee-675d8e3bf227)
 
 ```markdown
 # Django Todo List
 
 Django Todo List is a simple web application built with Django that allows users to manage their tasks in a todo list format.
+
 
 ## Getting Started
 
