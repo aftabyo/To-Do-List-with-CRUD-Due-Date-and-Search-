@@ -1,4 +1,3 @@
-Certainly! Below is a basic template for a README file for your Django Todo List project on GitHub. Be sure to customize it with your project-specific details:
 
 ```markdown
 # Django Todo List
